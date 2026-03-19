@@ -76,4 +76,4 @@ The dashboard includes multiple types of visualizations:
 This project showcases an end-to-end data analytics solution using Power BI. It highlights the ability to transform raw data into actionable insights and supports data-driven decision-making.
 
 * Dashboard Preview
-Dashboard Screenshot : 
+Dashboard Screenshot :(https://github.com/sujeetkumar1293862-web/E-commerce-Sales-Dashboard/blob/main/Power%20Bi%20Project%20n.png)
